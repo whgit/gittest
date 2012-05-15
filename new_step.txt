@@ -1,0 +1,21 @@
+Global setup
+ Set up git
+  git config --global user.name yangtao
+  git config --global user.email 690377261@qq.com
+      Next steps
+  mkdir gittest
+  cd gittest
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:whgitgittest.git
+  git push -u origin master
+      Existing Git Repo
+  cd existing_git_repo
+  git remote add origin git@github.com:whgitgittest.git
+  git push -u origin master
+      Importing a Subversion Repo
+  Check out the guide for step by step instructions.
+      When you're done
+  Continue
