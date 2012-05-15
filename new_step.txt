@@ -9,11 +9,11 @@ Global setup
   touch README
   git add README
   git commit -m 'first commit'
-  git remote add origin git@github.com:whgitgittest.git
+  git remote add origin git@github.com:whgit/gittest.git
   git push -u origin master
       Existing Git Repo
   cd existing_git_repo
-  git remote add origin git@github.com:whgitgittest.git
+  git remote add origin git@github.com:whgit/gittest.git
   git push -u origin master
       Importing a Subversion Repo
   Check out the guide for step by step instructions.
