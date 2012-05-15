@@ -1,0 +1,38 @@
+From 96c9ecbe822a5407c84b7b1cea32b9506671104a Mon Sep 17 00:00:00 2001
+From: yangtao <690377261@@qq.com>
+Date: Tue, 15 May 2012 15:39:23 +0800
+Subject: [PATCH] test____100001.txt new
+
+---
+ test010.txt |   14 ++++++++++++++
+ 1 files changed, 14 insertions(+), 0 deletions(-)
+ create mode 100644 test____100001.txt
+
+diff --git a/test010.txt b/test010.txt
+index 6bca305..f948b41 100644
+--- a/test010.txt
++++ b/test010.txt
+@@ -1,3 +1,17 @@
+ sdf
+ 
+ ddd0010
++a
++dqwdwq
++
++
++dqwdwq
++dqw
++qwdwqd
++qw
++dqw
++dqw
++d
++wqdwefrr43krtj3
++
++qwsdq3de2
+diff --git a/test____100001.txt b/test____100001.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.7.6.msysgit.0
+
